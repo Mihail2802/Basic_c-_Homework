@@ -1,0 +1,15 @@
+C:\Users\50\Desktop\c#_Basic_Homeworks\Homework01\CommandWriteLineHomework\HumanFigure\bin\Debug\net6.0\HumanFigure.exe
+C:\Users\50\Desktop\c#_Basic_Homeworks\Homework01\CommandWriteLineHomework\HumanFigure\bin\Debug\net6.0\HumanFigure.deps.json
+C:\Users\50\Desktop\c#_Basic_Homeworks\Homework01\CommandWriteLineHomework\HumanFigure\bin\Debug\net6.0\HumanFigure.runtimeconfig.json
+C:\Users\50\Desktop\c#_Basic_Homeworks\Homework01\CommandWriteLineHomework\HumanFigure\bin\Debug\net6.0\HumanFigure.dll
+C:\Users\50\Desktop\c#_Basic_Homeworks\Homework01\CommandWriteLineHomework\HumanFigure\bin\Debug\net6.0\HumanFigure.pdb
+C:\Users\50\Desktop\c#_Basic_Homeworks\Homework01\CommandWriteLineHomework\HumanFigure\obj\Debug\net6.0\HumanFigure.csproj.AssemblyReference.cache
+C:\Users\50\Desktop\c#_Basic_Homeworks\Homework01\CommandWriteLineHomework\HumanFigure\obj\Debug\net6.0\HumanFigure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50\Desktop\c#_Basic_Homeworks\Homework01\CommandWriteLineHomework\HumanFigure\obj\Debug\net6.0\HumanFigure.AssemblyInfoInputs.cache
+C:\Users\50\Desktop\c#_Basic_Homeworks\Homework01\CommandWriteLineHomework\HumanFigure\obj\Debug\net6.0\HumanFigure.AssemblyInfo.cs
+C:\Users\50\Desktop\c#_Basic_Homeworks\Homework01\CommandWriteLineHomework\HumanFigure\obj\Debug\net6.0\HumanFigure.csproj.CoreCompileInputs.cache
+C:\Users\50\Desktop\c#_Basic_Homeworks\Homework01\CommandWriteLineHomework\HumanFigure\obj\Debug\net6.0\HumanFigure.dll
+C:\Users\50\Desktop\c#_Basic_Homeworks\Homework01\CommandWriteLineHomework\HumanFigure\obj\Debug\net6.0\refint\HumanFigure.dll
+C:\Users\50\Desktop\c#_Basic_Homeworks\Homework01\CommandWriteLineHomework\HumanFigure\obj\Debug\net6.0\HumanFigure.pdb
+C:\Users\50\Desktop\c#_Basic_Homeworks\Homework01\CommandWriteLineHomework\HumanFigure\obj\Debug\net6.0\HumanFigure.genruntimeconfig.cache
+C:\Users\50\Desktop\c#_Basic_Homeworks\Homework01\CommandWriteLineHomework\HumanFigure\obj\Debug\net6.0\ref\HumanFigure.dll

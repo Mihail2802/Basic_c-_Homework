@@ -1,0 +1,15 @@
+C:\Users\50\Desktop\c#_Basic_Homeworks\Homework01\SEDC_Class02_Homework\SwapNumbersProject\bin\Debug\net6.0\SwapNumbersProject.exe
+C:\Users\50\Desktop\c#_Basic_Homeworks\Homework01\SEDC_Class02_Homework\SwapNumbersProject\bin\Debug\net6.0\SwapNumbersProject.deps.json
+C:\Users\50\Desktop\c#_Basic_Homeworks\Homework01\SEDC_Class02_Homework\SwapNumbersProject\bin\Debug\net6.0\SwapNumbersProject.runtimeconfig.json
+C:\Users\50\Desktop\c#_Basic_Homeworks\Homework01\SEDC_Class02_Homework\SwapNumbersProject\bin\Debug\net6.0\SwapNumbersProject.dll
+C:\Users\50\Desktop\c#_Basic_Homeworks\Homework01\SEDC_Class02_Homework\SwapNumbersProject\bin\Debug\net6.0\SwapNumbersProject.pdb
+C:\Users\50\Desktop\c#_Basic_Homeworks\Homework01\SEDC_Class02_Homework\SwapNumbersProject\obj\Debug\net6.0\SwapNumbersProject.csproj.AssemblyReference.cache
+C:\Users\50\Desktop\c#_Basic_Homeworks\Homework01\SEDC_Class02_Homework\SwapNumbersProject\obj\Debug\net6.0\SwapNumbersProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50\Desktop\c#_Basic_Homeworks\Homework01\SEDC_Class02_Homework\SwapNumbersProject\obj\Debug\net6.0\SwapNumbersProject.AssemblyInfoInputs.cache
+C:\Users\50\Desktop\c#_Basic_Homeworks\Homework01\SEDC_Class02_Homework\SwapNumbersProject\obj\Debug\net6.0\SwapNumbersProject.AssemblyInfo.cs
+C:\Users\50\Desktop\c#_Basic_Homeworks\Homework01\SEDC_Class02_Homework\SwapNumbersProject\obj\Debug\net6.0\SwapNumbersProject.csproj.CoreCompileInputs.cache
+C:\Users\50\Desktop\c#_Basic_Homeworks\Homework01\SEDC_Class02_Homework\SwapNumbersProject\obj\Debug\net6.0\SwapNumbersProject.dll
+C:\Users\50\Desktop\c#_Basic_Homeworks\Homework01\SEDC_Class02_Homework\SwapNumbersProject\obj\Debug\net6.0\refint\SwapNumbersProject.dll
+C:\Users\50\Desktop\c#_Basic_Homeworks\Homework01\SEDC_Class02_Homework\SwapNumbersProject\obj\Debug\net6.0\SwapNumbersProject.pdb
+C:\Users\50\Desktop\c#_Basic_Homeworks\Homework01\SEDC_Class02_Homework\SwapNumbersProject\obj\Debug\net6.0\SwapNumbersProject.genruntimeconfig.cache
+C:\Users\50\Desktop\c#_Basic_Homeworks\Homework01\SEDC_Class02_Homework\SwapNumbersProject\obj\Debug\net6.0\ref\SwapNumbersProject.dll
